@@ -60,13 +60,13 @@
 
 1.Turn on your matatacon by holding down the power button
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)
+[![](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)](https://play.google.com/store/apps/details?id=org.scratch)
 
 2.Open the Scratch app on your device.
 
 ![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matata-connect-2.png)
 
-3.MatataCon supports three modes of play: remote control mode, programming mode, and sensor mode. You can use the slide switch on the side of the controller to switch modes. From left to right are remote control mode-programming mode-sensor mode.
+3.MatataCon supports three modes: remote control mode, programming mode, and sensor mode. Please make sure the current mode is sensor mode
 
 ![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatcon-mode.png)
 
