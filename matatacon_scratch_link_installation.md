@@ -60,7 +60,7 @@
 
 1.Turn on your matatacon by holding down the power button
 
-![power-on-matatacon](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)]
+![power-on-matatacon](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)
 
 2.Open the Scratch app on your device.
 
