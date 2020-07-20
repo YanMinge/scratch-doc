@@ -26,7 +26,7 @@
 
 2.Start Scratch Link and make sure it is running. It should appear in your toolbar.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/windows-toolbar.png)
+![windows-toolbar](https://github.com/YanMinge/scratch-doc/blob/master/resources/windows-toolbar.png)
 
 ## macOS ##
 
@@ -40,7 +40,7 @@
 
 2.Start Scratch Link and make sure it is running. It should appear in your toolbar.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/mac-toolbar.png)
+![mac-toolbar](https://github.com/YanMinge/scratch-doc/blob/master/resources/mac-toolbar.png)
 
 ## ChromeOS ##
 
@@ -60,19 +60,19 @@
 
 1.Turn on your matatabot by holding down the power button
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatabot.png)
+![power-on-matatabot](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatabot.png)
 
 2.Open the Scratch app on your device.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matata-connect-2.png)
+![matata-connect](https://github.com/YanMinge/scratch-doc/blob/master/resources/matata-connect-2.png)
 
 3.Select MatataBot extension.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatabot-extension.png)
+![matatabot-extension](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatabot-extension.png)
 
 4.Connect MatataBot to Scratch
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatabot-ble-connect.png)
+![matatabot-ble-connect](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatabot-ble-connect.png)
 
 
 

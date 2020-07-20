@@ -26,7 +26,7 @@
 
 2.Start Scratch Link and make sure it is running. It should appear in your toolbar.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/windows-toolbar.png)
+![windows-toolbar](https://github.com/YanMinge/scratch-doc/blob/master/resources/windows-toolbar.png)
 
 ## macOS ##
 
@@ -40,7 +40,7 @@
 
 2.Start Scratch Link and make sure it is running. It should appear in your toolbar.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/mac-toolbar.png)
+![mac-toolbar](https://github.com/YanMinge/scratch-doc/blob/master/resources/mac-toolbar.png)
 
 ## ChromeOS ##
 
@@ -60,23 +60,23 @@
 
 1.Turn on your matatacon by holding down the power button
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)]
+![power-on-matatacon](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)]
 
 2.Open the Scratch app on your device.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matata-connect-2.png)
+![matata-connect](https://github.com/YanMinge/scratch-doc/blob/master/resources/matata-connect-2.png)
 
 3.MatataCon supports three modes: remote control mode, programming mode, and sensor mode. Please make sure the current mode is sensor mode
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatcon-mode.png)
+![matatcon-mode](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatcon-mode.png)
 
 3.Select MatataCon extension.
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatacon-extension.png)
+![matatacon-extension](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatacon-extension.png)
 
 4.Connect MatataCon to Scratch
 
-![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatacon-ble-connect.png)
+![matatacon-ble-connect](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatacon-ble-connect.png)
 
 
 
