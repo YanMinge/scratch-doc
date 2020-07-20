@@ -1,7 +1,7 @@
 
 # 1. Product Introduction #
 
-[Educator Resources](https://matatalab.com/education "educator resources")
+[![educator resources](https://github.com/YanMinge/scratch-doc/blob/master/resources/education-li3.jpg)](https://matatalab.com/education "educator resources")
 
 # 2. Requirements #
 
