@@ -18,7 +18,7 @@
 
 1.Download and install Scratch Link
 
-[Get it from Microsoft](https://www.microsoft.com/en-us/p/scratch-link/9n48xllczh0x "Get it from Microsoft")
+[![Get it from Microsoft](https://github.com/YanMinge/scratch-doc/blob/master/resources/windows-store-badge.png)](https://www.microsoft.com/en-us/p/scratch-link/9n48xllczh0x "Get it from Microsoft")
 
 --------or------------
 
@@ -32,7 +32,7 @@
 
 1.Download and install Scratch Link
 
-[Download on the App Store](https://apps.apple.com/us/app/scratch-link/id1408863490 "Download on the App Store")
+[![Download on the App Store](https://github.com/YanMinge/scratch-doc/blob/master/resources/mac-store-badge.png)](https://apps.apple.com/us/app/scratch-link/id1408863490 "Download on the App Store")
 
 --------or------------
 
@@ -46,13 +46,13 @@
 
 1.Get the Scratch app on the Google Play Store
 
-[GET IT ON Google Play](https://play.google.com/store/apps/details?id=org.scratch "GET IT ON Google Play")
+[![GET IT ON Google Play](https://github.com/YanMinge/scratch-doc/blob/master/resources/google-play-badge.png)](https://play.google.com/store/apps/details?id=org.scratch "GET IT ON Google Play")
 
 ## Android ##
 
 1.Get the Scratch app on the Google Play Store
 
-[GET IT ON Google Play](https://play.google.com/store/apps/details?id=org.scratch "GET IT ON Google Play")
+[![GET IT ON Google Play](https://github.com/YanMinge/scratch-doc/blob/master/resources/google-play-badge.png)](https://play.google.com/store/apps/details?id=org.scratch "GET IT ON Google Play")
 
 ## 4. Getting Started ##
 
@@ -60,7 +60,7 @@
 
 1.Turn on your matatacon by holding down the power button
 
-[![](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)](https://play.google.com/store/apps/details?id=org.scratch)
+![](https://github.com/YanMinge/scratch-doc/blob/master/resources/power-on-matatacon.png)]
 
 2.Open the Scratch app on your device.
 
@@ -74,7 +74,7 @@
 
 ![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatacon-extension.png)
 
-4.Connect MatataBot to Scratch
+4.Connect MatataCon to Scratch
 
 ![](https://github.com/YanMinge/scratch-doc/blob/master/resources/matatacon-ble-connect.png)
 
