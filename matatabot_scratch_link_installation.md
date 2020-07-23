@@ -14,7 +14,7 @@
 # 3. scratch Official website #
 [![scratch Official download website](https://github.com/YanMinge/scratch-doc/blob/master/resources/scratch_logo.jpg)](https://scratch.mit.edu/ "scratch Official download website")
 
-# 3. Choose your OS #
+# 4. Choose your OS #
 
 ## Windows ##
 
@@ -56,7 +56,7 @@
 
 [![GET IT ON Google Play](https://github.com/YanMinge/scratch-doc/blob/master/resources/google-play-badge.png)](https://play.google.com/store/apps/details?id=org.scratch "GET IT ON Google Play")
 
-## 4. Getting Started ##
+## 5. Getting Started ##
 
 ## Connecting MatataBot to Scratch ##
 
